@@ -1,0 +1,81 @@
+{
+    "cars": [
+        {
+            "make": "Toyota",
+            "model": "Supra",
+            "year": 1993,
+            "engine": "3.0L Inline-6",
+            "horsepower": 320
+        },
+        {
+            "make": "Nissan",
+            "model": "Skyline GT-R",
+            "year": 1999,
+            "engine": "2.6L Twin-Turbo Inline-6",
+            "horsepower": 276
+        },
+        {
+            "make": "Mitsubishi",
+            "model": "Lancer Evolution",
+            "year": 2001,
+            "engine": "2.0L Turbocharged Inline-4",
+            "horsepower": 276
+        },
+        {
+            "make": "Honda",
+            "model": "NSX",
+            "year": 1991,
+            "engine": "3.0L V6",
+            "horsepower": 270
+        },
+        {
+            "make": "Mazda",
+            "model": "RX-7",
+            "year": 1993,
+            "engine": "1.3L Twin-Turbo Rotary",
+            "horsepower": 255
+        },
+        {
+            "make": "Subaru",
+            "model": "Impreza WRX STI",
+            "year": 2004,
+            "engine": "2.5L Turbocharged Flat-4",
+            "horsepower": 300
+        },
+        {
+            "make": "Mitsubishi",
+            "model": "3000GT VR-4",
+            "year": 1999,
+            "engine": "3.0L Twin-Turbo V6",
+            "horsepower": 320
+        },
+        {
+            "make": "Nissan",
+            "model": "300ZX Twin-Turbo",
+            "year": 1996,
+            "engine": "3.0L Twin-Turbo V6",
+            "horsepower": 300
+        },
+        {
+            "make": "Toyota",
+            "model": "MR2 Turbo",
+            "year": 1995,
+            "engine": "2.0L Turbocharged Inline-4",
+            "horsepower": 200
+        },
+        {
+            "make": "Subaru",
+            "model": "SVX",
+            "year": 1994,
+            "engine": "3.3L Flat-6",
+            "horsepower": 230
+        },
+        {
+            "make": "Mazda",
+            "model": "MX-5 Miata",
+            "year": 1999,
+            "engine": "1.8L Inline-4",
+            "horsepower": 140
+        }
+    ]
+}
