@@ -12,6 +12,8 @@ onMounted(() => {
 </script>
 
 <template>
+
+  <div class="bg"></div>
   <main>
     <RouterLink v-for="(brandList,index) in brandList " :key="index" :to="{name: 'brand', params : {brand : brandList.brandName}}">
       <Brands :logo="brandList.logo" :brandname="brandList.brandName"/>
@@ -22,7 +24,20 @@ onMounted(() => {
 <style>
 main{
   display: flex;
-  padding: 20vh;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
+  backdrop-filter: blur(10px);
+  height: 90vh;
+  
+}
+
+.bg{
+  background: no-repeat center/cover url('../assets/bg.gif');
+  /* filter: blur(15px); */
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  z-index: -1;
 }
 </style>

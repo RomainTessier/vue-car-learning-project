@@ -5,77 +5,88 @@
             "model": "Supra",
             "year": 1993,
             "engine": "3.0L Inline-6",
-            "horsepower": 320
+            "horsepower": 320,
+            "image" :"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/1994_Toyota_Supra_Sport_Roof_in_Red%2C_front_left.jpg/280px-1994_Toyota_Supra_Sport_Roof_in_Red%2C_front_left.jpg"
         },
         {
             "make": "Nissan",
             "model": "Skyline GT-R",
             "year": 1999,
             "engine": "2.6L Twin-Turbo Inline-6",
-            "horsepower": 276
+            "horsepower": 276,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Skyliner34gt-t.jpg/250px-Skyliner34gt-t.jpg"
         },
         {
             "make": "Mitsubishi",
             "model": "Lancer Evolution",
             "year": 2001,
             "engine": "2.0L Turbocharged Inline-4",
-            "horsepower": 276
+            "horsepower": 276,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mitsubishi_Lancer_Evolution_VI.jpg/220px-Mitsubishi_Lancer_Evolution_VI.jpg"
         },
         {
             "make": "Honda",
             "model": "NSX",
             "year": 1991,
             "engine": "3.0L V6",
-            "horsepower": 270
+            "horsepower": 270,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Honda_NSX_red.jpg/280px-Honda_NSX_red.jpg"
         },
         {
             "make": "Mazda",
             "model": "RX-7",
             "year": 1993,
             "engine": "1.3L Twin-Turbo Rotary",
-            "horsepower": 255
+            "horsepower": 255,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_rearview_of_Mazda_RX-7_%28FD3S%29.JPG/220px-The_rearview_of_Mazda_RX-7_%28FD3S%29.JPG"
         },
         {
             "make": "Subaru",
             "model": "Impreza WRX STI",
             "year": 2004,
             "engine": "2.5L Turbocharged Flat-4",
-            "horsepower": 300
+            "horsepower": 300,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/04-05_Subaru_WRX_STi_2.jpg/220px-04-05_Subaru_WRX_STi_2.jpg"
         },
         {
             "make": "Mitsubishi",
             "model": "3000GT VR-4",
             "year": 1999,
             "engine": "3.0L Twin-Turbo V6",
-            "horsepower": 320
+            "horsepower": 320,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/3000gtlev.jpg/280px-3000gtlev.jpg"
         },
         {
             "make": "Nissan",
             "model": "300ZX Twin-Turbo",
             "year": 1996,
             "engine": "3.0L Twin-Turbo V6",
-            "horsepower": 300
+            "horsepower": 300,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/300ZX.jpg/280px-300ZX.jpg"
         },
         {
             "make": "Toyota",
             "model": "MR2 Turbo",
             "year": 1995,
             "engine": "2.0L Turbocharged Inline-4",
-            "horsepower": 200
+            "horsepower": 200,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Toyota_MR2-MKII_-_wikipedia.jpg/280px-Toyota_MR2-MKII_-_wikipedia.jpg"
         },
         {
             "make": "Subaru",
             "model": "SVX",
             "year": 1994,
             "engine": "3.3L Flat-6",
-            "horsepower": 230
+            "horsepower": 230,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Subaru_Alcyone_Svx.JPG/280px-Subaru_Alcyone_Svx.JPG"
         },
         {
             "make": "Mazda",
             "model": "MX-5 Miata",
             "year": 1999,
-            "engine": "1.8L Inline-4",
-            "horsepower": 140
+            "engine": "1.6L Inline-4",
+            "horsepower": 115,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MX5_Calanque_2.jpg/280px-MX5_Calanque_2.jpg"
         }
     ]
 }
