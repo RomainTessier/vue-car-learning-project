@@ -6,16 +6,15 @@ let dataCar = CarList.cars
 const route = useRoute()
 const brand = route.params.brand
 
-
 </script>
 
 <template>
     <div class="carlist">
     <template v-for="car in dataCar">
-        <li class="car" v-if="car.make == brand">
+        <RouterLink :to="{name:'model', params:{brand: car.make, model: car.model, carinfo: car}}" class="car" v-if="car.make == brand">
             <img :src=car.image alt="car picture">
             <h2>{{car.model}}</h2>
-        </li>
+        </RouterLink>
     </template>
     </div>
 </template>
@@ -42,6 +41,8 @@ const brand = route.params.brand
     border-radius: 10px;
     height: 30vh;
     width: 30vh;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .car img{
